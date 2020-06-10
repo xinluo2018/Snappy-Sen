@@ -1,2 +1,2 @@
-# Snappy-Sen(ongoing work)
+# Snappy-Sen(~ongoing)
 Python API for the Sentinel image processing
